@@ -6,7 +6,6 @@ Repositório com os notebooks desenvolvidos na disciplina de Inteligência Artif
 **Curso:** Engenharia de Software  
 **Turma:** 6°  
 **Período:** Noturno
-
 **Professor:** Fabiano Bezerra Menegidio
 
 ## Arquivos
