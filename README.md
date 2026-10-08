@@ -16,6 +16,10 @@ Repositório com os notebooks desenvolvidos na disciplina de Inteligência Artif
 | `Exercícios_DataScience_JoaoVitorFerreiraPedroso_6_B_Noite.ipynb` | 80 exercícios de Data Science — NumPy, SciPy, Pandas e Matplotlib | 23/08/2026 |
 | `atividade-svm-jo-o-vitor-ferreira-pedroso-09-9.ipynb` | Classificação de espécies de Iris com Support Vector Machine, usando dataset externo do Kaggle | 09/09/2026 |
 | `Water_Potability SUMMIT`  | 	Classificação de potabilidade da água com Support Vector Machine, usando dataset externo do Kaggle | 17/09/2026 |
+| `joao_pedroso_SVM.ipynb` | Previsão do valor de imóveis com Support Vector Regression (SVR), usando o dataset California Housing do Kaggle | 01/10/2026 |
+| `joao_pedroso_relatorio.pdf` | Relatório da atividade de previsão do valor de imóveis com SVR | 01/10/2026 |
+| `iris_modelos.ipynb` | Comparação de SVM, Árvore de Decisão, Floresta Aleatória e Boosting no dataset Iris, com e sem GridSearchCV | 01/10/2026 |
+| `classificacao_fishmorph_svm.ipynb` | Classificação de ordens de peixes com Support Vector Machine, usando o dataset FishMorph do Kaggle | 07/10/2026 |
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
